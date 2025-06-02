@@ -1,6 +1,6 @@
 # 👥 Meet the Team
 
-Meet the engineering team behind **Arlo** 🚀
+Meet the engineering team behind **[Arlo](http://arlorent.com)** 🚀
 
 | 👤 Name  | 🎓 School and Year | 🛠 Role               | 🍽️ Favorite Food | 💻 GitHub Username |
 |---------|--------------------|-----------------------|------------------|--------------------|
